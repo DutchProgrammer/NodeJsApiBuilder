@@ -1,2 +1,2 @@
-# NodeJsApiBuilder
-You can easily build API's with this build
+# NodeJS API builder
+Easily build API's in NodeJS

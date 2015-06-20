@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-api-builder",
+  "version": "1.0.1",
+  "description": "NodeJs API Builder",
+  "main": "api.js",
+  "dependencies": {
+    "express": "^4.12.4",
+    "mysql": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DutchProgrammer/NodeJsApiBuilder.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Danny van der Knaap",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/DutchProgrammer/NodeJsApiBuilder/issues"
+  },
+  "homepage": "https://github.com/DutchProgrammer/NodeJsApiBuilder#readme"
+}
